@@ -1,5 +1,5 @@
 # ASK SEARCHER
-Hola, soy el desarrollador de la herramienta "Ask Searcher", su funcion es buscar paginas mediante dork´s(manual o lista)
+Hola, soy el desarrollador de la herramienta "Ask Searcher" que esta codificada en python3.9, su funcion es buscar paginas mediante dork´s(manual o lista)
 ## Imagen referencial
 ![Preview](https://i.imgur.com/ccbEZMJ.png)
 ## Instalación
