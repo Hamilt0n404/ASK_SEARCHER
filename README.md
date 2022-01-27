@@ -3,7 +3,7 @@ Hola, soy el desarrollador de la herramienta "Ask Searcher" que esta codificada 
 ## Imagen referencial
 ![Preview](https://i.imgur.com/ccbEZMJ.png)
 ## Instalación
-para instalar las librerias necesarias para el perfecto funcionamiento ejecutar el siguiente comando
+para instalar las librerias necesarias para el perfecto funcionamiento ejecutar el siguiente comando, recordar en usar la version de python3.9.x
 ```bash
   pip install -r requirements.txt
 ```
